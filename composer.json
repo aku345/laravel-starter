@@ -1,5 +1,5 @@
 {
-    "name": "ourlearn/laravel-starter",
+    "name": "aku345/laravel-starter",
     "description": "Automatically generates files for laravel project",
     "keywords": ["laravel", "package", "starter", "command"],
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Ourlearn\\LaravelStarter": "src/"
+            "aku345\\LaravelStarter": "src/"
         }
     },
     "minimum-stability": "dev"
